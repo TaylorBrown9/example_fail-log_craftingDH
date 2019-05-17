@@ -1,1 +1,3 @@
-
+Week one - 
+using the command line in DH Box went over well. I had success using all commands up until xercise 4.7. I was able to fork another persons repository and make a pull request in GitHub but when I needed to enter commands in DH Box for this I continued to get a message saying fatal:not a git repository. I am still unable to figure this one out. 
+Using Dillinger - I could not open it on the first day that I tried but it is now working. I wrote about an annotation and entered the html for a picture but the picture did not show. After watching the video for this in the workbook it seems that the website has been updated so I could not follow the steps as it is looking completely different now. 
